@@ -1,37 +1,19 @@
 ### Hi, I'm Juan Villegas
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in networking and software development. Below you can find more about my professional interests, what I'm currently learning, my hobbies, and the projects I'm working on.
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in networking, software development, and continually expanding my knowledge in cutting-edge technologies.
 
-#### Interests
+#### What I'm Doing
 
-- Creating a home server
-- Developing a router
-- Working with sockets in C
-- Exploring Arch Linux
+- **Learning**: Advancing my skills in Next.js with React, Oracle DB, Docker, and Vite.
+- **Hobbies**: Muay Thai, reading philosophy and literature, and learning new non-programming languages.
+- **Interests**: Home servers, developing routers, socket programming in C, exploring Arch Linux.
 
-#### Currently Learning
+#### My Projects
 
-I'm dedicated to expanding my knowledge and skills in several cutting-edge technologies, including:
+Projects I'm working on:
+- [Data-Structure-Visualizer](https://github.com/JuanVillegas95/Data-Structure-Visualizer): A visual tool for understanding data structures.
+- [PurrfectTiming](https://github.com/JuanVillegas95/PurrfectTiming): An application that aids in scheduling and time management.
 
-- Next.js with React
-- Oracle DB
+#### Let's Connect!
 
-
-#### Hobbies
-
-When I'm not coding, I enjoy:
-
-- Practicing Muay Thai
-- Reading philosophy and literature
-- Learning new not programming languages
-
-#### Projects
-
-I'm actively working on two main projects:
-
-- [**Data-Structure-Visualizer**](https://github.com/JuanVillegas95/Data-Structure-Visualizer).
-- [**PurrfectTiming**](https://github.com/JuanVillegas95/PurrfectTiming).
-
-#### Contact Me
-
-For collaborations, questions, or just to say hi, you can reach me at my email: [juanemail2005@gmail.com](mailto:juanemail2005@gmail.com).
+Reach out to me at [juanemail2005@gmail.com](mailto:juanemail2005@gmail.com).
