@@ -1,7 +1,3 @@
-### Hi, I'm Juan Villegas
-
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in networking, software development, and continually expanding my knowledge in cutting-edge technologies.
-
 #### What I'm Doing
 
 - **Learning**: Advancing my skills in Next.js with React, Oracle DB, Docker, and Vite.
