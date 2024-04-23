@@ -1,6 +1,6 @@
 #### What I'm Doing
 
-- **Learning**: Advancing my skills in Next.js with React, Oracle DB, Docker, and Vite.
+- **Learning**: Advancing my skills in Next.js with React, Oracle DB.
 - **Hobbies**: Muay Thai, reading philosophy and literature, and learning new non-programming languages.
 - **Interests**: Home servers, developing routers, socket programming in C, exploring Arch Linux.
 
